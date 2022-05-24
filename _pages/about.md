@@ -21,7 +21,7 @@ optimization of real time bidding. Analysis on probability distribution of bid p
 
 House DJ as [RKADE.](https://open.spotify.com/artist/3N2OsL09WQp4QF4U9VpgUq?si=4PLgRXPBS4-NyNo3U9JjQg)
 
-Resume here.
+Resume [here](./assets/pdf/resume_russell_kim.pdf).
 
 
 
