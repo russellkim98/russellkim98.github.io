@@ -19,7 +19,9 @@ Graduated from Princeton University with a degree in [ORFE](https://orfe.princet
 Data scientist + research at [Moloco.](https://www.moloco.com/en/) Currently looking at reinforcement learning methods for
 optimization of real time bidding. Analysis on probability distribution of bid prices, as well mathematical proofs of optimality of pricing.
 
-House DJ as [RKADE](https://open.spotify.com/artist/3N2OsL09WQp4QF4U9VpgUq?si=4PLgRXPBS4-NyNo3U9JjQg)
+House DJ as [RKADE.](https://open.spotify.com/artist/3N2OsL09WQp4QF4U9VpgUq?si=4PLgRXPBS4-NyNo3U9JjQg)
+
+Resume here.
 
 
 
